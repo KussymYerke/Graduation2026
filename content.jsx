@@ -51,7 +51,7 @@ window.CONTENT = {
       kicker: "Қайда кездесеміз",
       title: "Өткізілетін орын",
       mapLabel: "карта осы жерге қойылады",
-      mapBtn: "Google картадан ашу",
+      mapBtn: "2gis-тан ашу",
       caps: {
         grads: "Mugalim",
         table: "Мерекелік дастарқан",
@@ -171,7 +171,7 @@ window.CONTENT = {
       kicker: "Где встречаемся",
       title: "Место проведения",
       mapLabel: "карта будет здесь",
-      mapBtn: "Открыть в Google Картах",
+      mapBtn: "Открыть в 2gis",
       caps: {
         grads: "Mugalim",
         table: "Праздничный стол",
